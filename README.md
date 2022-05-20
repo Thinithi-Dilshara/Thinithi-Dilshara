@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thinithi Palayangoda.
-- 👀 I’m interested in web development, software development, AI, editorial, membership etc.
+- 👀 I’m interested in web development, software development, machine learning, editorial, membership etc.
 - 🌱 I’m currently an undergraduate of University of Moratuwa learning Information Technology.
 - 💞️ I’m looking to work in the IT industry in the future, web development or machine learning.
 
